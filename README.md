@@ -31,5 +31,5 @@ Invalid   Valid
   |        |
  Show     Open
  Error   Dashboard
-      |
-   Logout → Return to Login
+  |
+Logout → Return to Login
